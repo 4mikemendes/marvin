@@ -1,0 +1,43 @@
+/* body {
+  background-image: url("./marvin.png");
+  background-repeat: no-repeat;
+  height: 100%;
+  background-position: center;
+  position: absolute;
+}
+ */#image-container {
+      background-image: url(./marvin.png);
+    background-repeat: no-repeat;
+    height: auto;
+    text-align: left;
+    padding-top: 120px;
+    padding-bottom: 341px;
+
+
+}
+
+#BoredBot {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  border: 2px solid;
+
+}
+h1, h2 {
+  font-family: 'Roboto Mono', monospace;
+  position: relative;
+  margin-left: 20px;
+}
+button {
+background: #e2e2e2;
+cursor: pointer;
+font-weight: bold;
+position: relative;
+margin-left: 39px;
+
+}
+#what-to-do {
+  padding-right: 40%;
+  margin-right: 70%;
+  max-width: 50px
+ }
